@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TPS.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{C16195C9-8DA9-43C8-9CA9-78ABDCB19170}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TPS.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TPSEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{6CB5FC97-93A1-4361-9795-C34DBF5278D6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TPS">
+      <UniqueIdentifier>{97EDA37C-D9B9-423A-B044-F5B5D6EC545C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TPS\TPS.Build.cs">
+      <Filter>Source\TPS</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TPS\TPS.cpp">
+      <Filter>Source\TPS</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TPS\TPS.h">
+      <Filter>Source\TPS</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TPS\TPSCharacter.cpp">
+      <Filter>Source\TPS</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TPS\TPSCharacter.h">
+      <Filter>Source\TPS</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TPS\TPSGameMode.cpp">
+      <Filter>Source\TPS</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TPS\TPSGameMode.h">
+      <Filter>Source\TPS</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Tailai Lu\\Documents\\Unreal Projects\\TPS\\TPS\\Source\\TPS\\TPS.Build.cs",
+		"C:\\Users\\Tailai Lu\\Documents\\Unreal Projects\\TPS\\TPS\\Source\\TPS.Target.cs",
+		"C:\\Users\\Tailai Lu\\Documents\\Unreal Projects\\TPS\\TPS\\Source\\TPSEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}
